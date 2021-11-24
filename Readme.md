@@ -1,7 +1,7 @@
 # Image Captioning App
 
 
-<img src="https://i.ytimg.com/vi/q9ao495UqhY/maxresdefault.jpg" width=60%> 
+<img src="https://i.ytimg.com/vi/q9ao495UqhY/maxresdefault.jpg" width=100%> 
 
 ## About: Used Merge model developed by Tanti et al. in 2017 as a refereance for the base model for image captioning
 
